@@ -1,0 +1,43 @@
+.contact-form{
+	background-color:green;
+	
+height:100vh;
+}
+body{
+	margin:0;
+	padding:0;
+}
+h2{
+	margin:0;
+}
+.contact-us{
+	padding :120px 0;
+	
+}
+.contact-us form{
+	background-color:white;
+	width:300px;
+	margin:auto;
+	padding:30px;
+	
+	
+}
+.contact-us h2{
+	text-align:center;
+	padding-bottom:20px;
+	
+}
+.contact-us input , .contact-us textarea{
+	width:270px;
+	padding:6px 10px;
+	box-sizing:boredr-box;
+	margin:6px;
+}
+.contact-us button{
+	background-color:green;
+	width:100%;
+	border:none;
+	padding:10px;
+	border-radius:20px;
+	color:white;
+}

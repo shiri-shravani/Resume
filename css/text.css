@@ -1,0 +1,39 @@
+.bg-color{
+	background-color:blue;
+	color:white;
+
+}
+.bg-image{
+	background-image:url('../images/photo.jpg');
+	height:400px;
+	background-position:center;
+	background-position:no repeat;
+	background-attachment:fixed;
+}
+.ex-border{
+	/*border:4px dotted red;*/
+	border-width:4px;
+	border-style:dashed;
+	border-color:pink;
+	
+	
+}
+.align-exp{
+	font-size:90px;
+	font-weight:900 bolder;
+}
+.align-text-exp{
+	line-height:50px;
+}
+.desc-exp p{
+	color:blue;
+}
+.chil-exp > p {
+	color:red;
+}
+.non-sib-exp + p{
+	color:red;
+}
+.container{
+	
+}

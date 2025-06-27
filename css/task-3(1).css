@@ -1,0 +1,35 @@
+.bg-img{
+	background-image:url('../images/photo.jpg');
+	height:350px;
+	width:500px;
+	background-position:center;
+	margin:auto;
+	margin-top:200px;
+	text-align:center;
+
+}
+.head-content{
+    text-align:center;
+	color:white;
+	padding:80px;
+	font-family:'open sans',sans-serif;
+	font-size:28px;
+
+}
+.para-content{
+	text-align:center;
+	color:white;
+    margin:-70px;
+	font-family:'open sans',sans-serif;
+}
+.bg-img button{
+	color:white;
+	background-color:blue;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	border-bottom-left-radius:5px;
+	padding:10px;
+  transform: translateY(100px);
+  font-family:'open sans',sans-serif;
+}
